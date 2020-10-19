@@ -1,6 +1,6 @@
 # **NLW3-Omnistack**
 
-:brazil::brazil::brazil::brazil::brazil::brazil::brazil::brazil::brazil::brazil::brazil::brazil::brazil:
+**:brazil:**
 
 **Tecnologias**
 ____________________________________________________________________________________________________________________________
@@ -29,7 +29,7 @@ Este projeto foi desenvolvido durante a Next Level Week - 3, baseando-se no proj
 
 ******************************************************************************************************************************
 
-:us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us::us:
+**:us:**
 
 
 **Technologies**
