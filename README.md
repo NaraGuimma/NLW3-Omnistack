@@ -4,7 +4,7 @@
 
 
 
-**:PT:**
+**:star:PT:star:**
 
 :computer: **Tecnologias**
 ____________________________________________________________________________________________________________________________
@@ -33,7 +33,7 @@ Este projeto foi desenvolvido durante a Next Level Week - 3, baseando-se no proj
 
 ******************************************************************************************************************************
 
-**:EN:**
+**:star:EN:star:**
 
 
 :computer: **Technologies**
@@ -59,4 +59,3 @@ TypeScript
 ____________________________________________________________________________________________________________________________
 
 This project was developed during Next Level Week 3rd edition. The original project was an inspiration to build this new Happy version that aims to connect grandfathers and grandmothers, who live in retirement or nursing homes, with other people. Bringing them joy and happiness with a simple gesture of love and affection.
-
