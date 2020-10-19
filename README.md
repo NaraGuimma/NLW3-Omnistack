@@ -6,9 +6,13 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Node.js
+
 React
+
 React Native
+
 Expo
+
 TypeScript
 
 
@@ -24,9 +28,13 @@ Este projeto foi desenvolvido durante a Next Level Week - 3, baseando-se no proj
 The technologies used were:
 
 Node.js
+
 React
+
 Native React
+
 Expo
+
 TypeScript
 
 
