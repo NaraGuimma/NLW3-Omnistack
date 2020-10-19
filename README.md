@@ -1,5 +1,9 @@
 # **NLW3-Omnistack**
 
+![NLW3](https://github.com/NaraGuimma/NLW3-Omnistack/blob/main/NLW3.PNG?raw=true)
+
+
+
 **:brazil:**
 
 :computer: **Tecnologias**
