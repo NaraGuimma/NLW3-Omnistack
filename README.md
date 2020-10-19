@@ -58,5 +58,5 @@ TypeScript
 :tada: **Project**
 ____________________________________________________________________________________________________________________________
 
-This project was developed during Next Level Week 3rd edition, based on the original project proposed a new application was built to connect people to grandfathers and grandmothers who live in retirement homes, nursing homes, homes for the elderly, making them happier with a gesture of love and affection.
+This project was developed during Next Level Week 3rd edition. The original project was an inspiration to build this new Happy version that aims to connect grandfathers and grandmothers, who live in retirement or nursing homes, with other people. Bringing them joy and happiness with a simple gesture of love and affection.
 
